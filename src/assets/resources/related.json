@@ -1,1 +1,3854 @@
-[]
+[
+  {
+    "name": "Agape'S Prize Cox Gold Star ",
+    "dateOfBirth": "2023-05-14T22:06:21",
+    "dateOfDeath": null,
+    "normalizeId": "PD2322432",
+    "id": 2322432,
+    "sex": "Male",
+    "damId": 1803565,
+    "sireId": 1894482,
+    "ownerAccount": {
+      "displayName": "Megan & Rick Kaut"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm SD Mercury",
+    "dateOfBirth": "2022-03-27T12:29:57",
+    "dateOfDeath": null,
+    "normalizeId": "PD2255855",
+    "id": 2255855,
+    "sex": "Female",
+    "damId": 1830462,
+    "sireId": 2165482,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "G",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 324074
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "Lucky*Star'S LL Points",
+    "dateOfBirth": "2022-03-10T09:00:11",
+    "dateOfDeath": null,
+    "normalizeId": "PL2246321",
+    "id": 2246321,
+    "sex": "Male",
+    "damId": 2158825,
+    "sireId": 1795148,
+    "ownerAccount": {
+      "displayName": "Cindy L & Robert L Silva"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm M D-Delight",
+    "dateOfBirth": "2022-03-06T09:00:43",
+    "dateOfDeath": null,
+    "normalizeId": "PD2232213",
+    "id": 2232213,
+    "sex": "Female",
+    "damId": 1717060,
+    "sireId": 1723845,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 324073
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "Rockin-CB Kmm Playful",
+    "dateOfBirth": "2022-03-12T09:55:45",
+    "dateOfDeath": null,
+    "normalizeId": "PL2229601",
+    "id": 2229601,
+    "sex": "Female",
+    "damId": 1870115,
+    "sireId": 1871017,
+    "ownerAccount": {
+      "displayName": "Bonnie Bates"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-09-21T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "A",
+        "bodyCapacity": "G",
+        "mammarySystem": "E",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 327843
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2023-09-20T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 308000
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm JS Elizabeth",
+    "dateOfBirth": "2022-03-09T18:41:32",
+    "dateOfDeath": null,
+    "normalizeId": "PN2229456",
+    "id": 2229456,
+    "sex": "Female",
+    "damId": 1918024,
+    "sireId": 1897726,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "G",
+        "bodyCapacity": "G",
+        "mammarySystem": "V",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 324078
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "TUA Farms Doctor Redfield",
+    "dateOfBirth": "2021-03-08T10:14:17",
+    "dateOfDeath": null,
+    "normalizeId": "PD2171205",
+    "id": 2171205,
+    "sex": "Male",
+    "damId": 1822967,
+    "sireId": 1876718,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm AT Sammy Davis ",
+    "dateOfBirth": "2021-03-30T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2165482",
+    "id": 2165482,
+    "sex": "Male",
+    "damId": 1837910,
+    "sireId": 1727734,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "IlenesRascals Teachmesomethin'",
+    "dateOfBirth": "2021-01-29T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2152784",
+    "id": 1945322,
+    "sex": "Male",
+    "damId": 1757727,
+    "sireId": 1803560,
+    "ownerAccount": {
+      "displayName": "Wendelyn Valentine"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Castle Rock Tempesta",
+    "dateOfBirth": "2020-04-16T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2137443",
+    "id": 1929981,
+    "sex": "Female",
+    "damId": 1580497,
+    "sireId": 1804325,
+    "ownerAccount": {
+      "displayName": "Megan & Rick Kaut"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2024-08-31T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 326713
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2022-06-26T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 296393
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "My-Enchanted-Acres LM Ester",
+    "dateOfBirth": "2020-02-26T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN2125506",
+    "id": 1918024,
+    "sex": "Female",
+    "damId": 1751677,
+    "sireId": 1517800,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 324072
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "Little RedHouse Tifa Lockhart ",
+    "dateOfBirth": "2020-06-29T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2113283",
+    "id": 1905781,
+    "sex": "Female",
+    "damId": 1797885,
+    "sireId": 1768861,
+    "ownerAccount": {
+      "displayName": "Trenne Earl"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 324155
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 304694
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "CH Dkgh Candyman Rockin' Everest",
+    "dateOfBirth": "2020-04-27T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN2090026",
+    "id": 1882504,
+    "sex": "Male",
+    "damId": 1520487,
+    "sireId": 1617850,
+    "ownerAccount": {
+      "displayName": "Greenehaven Farms"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-03T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 308520
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek M Oriions Belt",
+    "dateOfBirth": "2019-05-07T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2041425",
+    "id": 1833803,
+    "sex": "Female",
+    "damId": 1749308,
+    "sireId": 1723845,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": true,
+        "id": 324081
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 285733
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 9
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Long Acres Farm PD Jupiter ",
+    "dateOfBirth": "2019-03-08T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2038084",
+    "id": 1830462,
+    "sex": "Female",
+    "damId": 1643437,
+    "sireId": 1575120,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": true,
+        "id": 324079
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 285701
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "CH Dkgh DG Reign Beau",
+    "dateOfBirth": "2019-04-06T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN2021687",
+    "id": 1814042,
+    "sex": "Male",
+    "damId": 1470737,
+    "sireId": 1491313,
+    "ownerAccount": {
+      "displayName": "Greenehaven Farms"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-03T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 308381
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek ZZ Shooting Star",
+    "dateOfBirth": "2019-04-06T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2016365",
+    "id": 1808722,
+    "sex": "Male",
+    "damId": 1564444,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "My-Enchanted-Acres Jbw Josie",
+    "dateOfBirth": "2018-05-02T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1959342",
+    "id": 1751677,
+    "sex": "Female",
+    "damId": 1517803,
+    "sireId": 1560621,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 9
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek ILM Star Magnolia",
+    "dateOfBirth": "2018-05-13T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1956973",
+    "id": 1749308,
+    "sex": "Female",
+    "damId": 1644246,
+    "sireId": 1466770,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 324080
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 285064
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 269655
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 8
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek PD Maraca",
+    "dateOfBirth": "2018-02-05T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1931530",
+    "id": 1723845,
+    "sex": "Male",
+    "damId": 1345760,
+    "sireId": 1486576,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": " ",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 284887
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "Stayawhile Tms Carmella Cream",
+    "dateOfBirth": "2018-03-20T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1924745",
+    "id": 1717060,
+    "sex": "Female",
+    "damId": 1593584,
+    "sireId": 1576766,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 284849
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 2
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek Sharp Dressed Man",
+    "dateOfBirth": "2017-04-03T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1851930",
+    "id": 1644245,
+    "sex": "Male",
+    "damId": 1410083,
+    "sireId": 1466770,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 260609
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Stayawhile HC Forged Steel",
+    "dateOfBirth": "2017-02-03T00:00:00",
+    "dateOfDeath": "2025-06-01T14:02:02",
+    "normalizeId": "PD1851708",
+    "id": 1644023,
+    "sex": "Male",
+    "damId": 1460028,
+    "sireId": 1450716,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": " ",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 284591
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 269984
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time EE Crescent Moon",
+    "dateOfBirth": "2017-03-06T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1851122",
+    "id": 1643437,
+    "sex": "Female",
+    "damId": 1426554,
+    "sireId": 1540418,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "A",
+        "bodyCapacity": "E",
+        "mammarySystem": "+",
+        "finalScore": 82,
+        "isPermanent": false,
+        "id": 269985
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Highland Ranch 8SR IT'S Payday",
+    "dateOfBirth": "2016-04-01T00:00:00",
+    "dateOfDeath": "2024-12-27T20:31:59",
+    "normalizeId": "PD1782925",
+    "id": 1575120,
+    "sex": "Male",
+    "damId": 1311442,
+    "sireId": 1513663,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "GCH Hetlandcreek HB Swan Harmonica",
+    "dateOfBirth": "2016-03-15T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1772229",
+    "id": 1564444,
+    "sex": "Female",
+    "damId": 1345760,
+    "sireId": 1438166,
+    "ownerAccount": {
+      "displayName": "Trenne Earl"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 269652
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 261906
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG My-Enchanted-Acres Leading Man",
+    "dateOfBirth": "2015-03-05T00:00:00",
+    "dateOfDeath": "2024-04-22T08:21:52",
+    "normalizeId": "PN1725675",
+    "id": 1517800,
+    "sex": "Male",
+    "damId": 1196766,
+    "sireId": 1243745,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-16T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 269957
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 250398
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2015,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Engylskye Countof Monte Cristo",
+    "dateOfBirth": "2013-02-12T00:00:00",
+    "dateOfDeath": "2022-08-12T22:23:45",
+    "normalizeId": "PN1627106",
+    "id": 1419018,
+    "sex": "Male",
+    "damId": 1202642,
+    "sireId": 1287767,
+    "ownerAccount": {
+      "displayName": "Judith A Bevaart"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-08-28T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 244812
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 220232
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Blue Bear Dfmi Truffles",
+    "dateOfBirth": "2012-03-29T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1593639",
+    "id": 1385474,
+    "sex": "Female",
+    "damId": 1311442,
+    "sireId": 1345295,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 284200
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 269982
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 2
+      }
+    ]
+  },
+  {
+    "name": "Poppy Patch Don'T Fence Me In",
+    "dateOfBirth": "2011-04-14T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1553506",
+    "id": 1345295,
+    "sex": "Male",
+    "damId": 1243158,
+    "sireId": 1315501,
+    "ownerAccount": {
+      "displayName": "Susanna Sadler"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2013-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 207077
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2012-08-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 199780
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "SGCH Blue Bear BD Hershey Kisses",
+    "dateOfBirth": "2010-03-16T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1519723",
+    "id": 1311442,
+    "sex": "Female",
+    "damId": 1249917,
+    "sireId": 1187753,
+    "ownerAccount": {
+      "displayName": "Mark & Samantha Mielbrecht"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 244879
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2013-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 207076
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2012-08-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 199779
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milk Competition",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Lucky*Star'S RJ Nice-Nice",
+    "dateOfBirth": "2021-03-01T08:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PL2158825",
+    "id": 2158825,
+    "sex": "Female",
+    "damId": 1711475,
+    "sireId": 1653343,
+    "ownerAccount": {
+      "displayName": "Tanya & Quaid Callison"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2023-07-29T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 307770
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2022-05-26T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "G",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 294144
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "My-Enchanted-Acres Justn'Smoke",
+    "dateOfBirth": "2020-03-21T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN2105247",
+    "id": 1897726,
+    "sex": "Male",
+    "damId": 1344090,
+    "sireId": 1419018,
+    "ownerAccount": {
+      "displayName": "Kim Puzio"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 308558
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Agape'S Prize Goldie Cox",
+    "dateOfBirth": "2020-05-02T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2102004",
+    "id": 1894482,
+    "sex": "Male",
+    "damId": 1543546,
+    "sireId": 1592111,
+    "ownerAccount": {
+      "displayName": "Hilltop Farms"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Sans Gene Doctor Fauci",
+    "dateOfBirth": "2020-03-27T00:00:00",
+    "dateOfDeath": "2022-06-04T09:09:45",
+    "normalizeId": "PD2084240",
+    "id": 1876718,
+    "sex": "Male",
+    "damId": 1420220,
+    "sireId": 1530212,
+    "ownerAccount": {
+      "displayName": "Tanya  Simons"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Kastdemur'S Modern Man",
+    "dateOfBirth": "2020-03-02T00:00:00",
+    "dateOfDeath": "2024-04-14T20:14:04",
+    "normalizeId": "PL2078530",
+    "id": 1871017,
+    "sex": "Male",
+    "damId": 1510477,
+    "sireId": 1573072,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "GCH Rockin-CB RL Mischief",
+    "dateOfBirth": "2020-03-08T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PL2077628",
+    "id": 1870115,
+    "sex": "Female",
+    "damId": 1653323,
+    "sireId": 1813174,
+    "ownerAccount": {
+      "displayName": "Cindy L Silva"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2022-07-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 293837
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2021-10-09T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 287207
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milk Competition",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Long Acres Farm FS Marabou",
+    "dateOfBirth": "2019-03-08T00:00:00",
+    "dateOfDeath": "2023-04-22T19:48:22",
+    "normalizeId": "PD2045512",
+    "id": 1837910,
+    "sex": "Female",
+    "damId": 1385474,
+    "sireId": 1644023,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 285761
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "TUA Farms MB Bold N Blonde",
+    "dateOfBirth": "2019-04-25T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2030603",
+    "id": 1822967,
+    "sex": "Female",
+    "damId": 1724841,
+    "sireId": 1712578,
+    "ownerAccount": {
+      "displayName": "Jayden Heathcott"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-09-29T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 285635
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Lil Miss B Haven WM Hokeypokey",
+    "dateOfBirth": "2019-03-14T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2011974",
+    "id": 1804325,
+    "sex": "Male",
+    "damId": 1579539,
+    "sireId": 1408407,
+    "ownerAccount": {
+      "displayName": "Bentley Carter"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2019,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Agape'S Prize Scarlets Starlet",
+    "dateOfBirth": "2019-02-21T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2011218",
+    "id": 1803565,
+    "sex": "Female",
+    "damId": 1484077,
+    "sireId": 1462954,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-03T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "G",
+        "bodyCapacity": "E",
+        "mammarySystem": "G",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 303790
+      }
+    ],
+    "awards": []
+  },
+  {
+    "name": "Agape'S Prize Saint Dismus",
+    "dateOfBirth": "2019-02-22T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2011213",
+    "id": 1803560,
+    "sex": "Male",
+    "damId": 1509823,
+    "sireId": 1462954,
+    "ownerAccount": {
+      "displayName": "Samara Groves"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "GCH Little RedHouse Hey!Look! Navi",
+    "dateOfBirth": "2019-03-19T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2005543",
+    "id": 1797885,
+    "sex": "Female",
+    "damId": 1676988,
+    "sireId": 1723848,
+    "ownerAccount": {
+      "displayName": "Trenne Earl"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 324154
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 303744
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 285332
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Lucky*Star'S HD Lugosi",
+    "dateOfBirth": "2019-03-04T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PL2002813",
+    "id": 1795148,
+    "sex": "Male",
+    "damId": 1643510,
+    "sireId": 1518150,
+    "ownerAccount": {
+      "displayName": "Manuel & Kirsten Cabanas-Holmen"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-04T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 307546
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "3 *M Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2019,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time ZZ Armani ",
+    "dateOfBirth": "2018-02-25T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1976526",
+    "id": 1768861,
+    "sex": "Male",
+    "damId": 1517163,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": "Chelsea Johansen"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "IlenesRascals Teacher'S Hot! ",
+    "dateOfBirth": "2018-06-20T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1965392",
+    "id": 1757727,
+    "sex": "Female",
+    "damId": 1656813,
+    "sireId": 1656812,
+    "ownerAccount": {
+      "displayName": "Makayla  Hayes"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time SC Arturo Tappin",
+    "dateOfBirth": "2018-03-04T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1935419",
+    "id": 1727734,
+    "sex": "Male",
+    "damId": 1589660,
+    "sireId": 1517162,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": " ",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 284915
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 78,
+        "isPermanent": false,
+        "id": 269988
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek JDI Rose'",
+    "dateOfBirth": "2017-03-07T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1851931",
+    "id": 1644246,
+    "sex": "Female",
+    "damId": 1525925,
+    "sireId": 1563911,
+    "ownerAccount": {
+      "displayName": "Kristy Muir"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2022-04-08T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 85,
+        "isPermanent": true,
+        "id": 292475
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 269653
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 261907
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 7
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH My-Enchanted-Acres LM Candyman",
+    "dateOfBirth": "2016-01-19T00:00:00",
+    "dateOfDeath": "2023-05-23T11:40:42",
+    "normalizeId": "PN1825534",
+    "id": 1617850,
+    "sex": "Male",
+    "damId": 1463520,
+    "sireId": 1517800,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-09-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": " ",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 287460
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 258626
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 250111
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "++B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Milknkids MM Thin Ice Blues",
+    "dateOfBirth": "2016-02-13T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1801355",
+    "id": 1593584,
+    "sex": "Female",
+    "damId": 1442458,
+    "sireId": 1502220,
+    "ownerAccount": {
+      "displayName": "Rollie & Denise Fugate"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 269756
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2017-06-12T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 249635
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Castle Rock LA Nina",
+    "dateOfBirth": "2016-04-15T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1788302",
+    "id": 1580497,
+    "sex": "Female",
+    "damId": 1483669,
+    "sireId": 1568635,
+    "ownerAccount": {
+      "displayName": "Sarah Hawkins"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-05-24T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 268424
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Windy Gorge HJ Thats My Story",
+    "dateOfBirth": "2016-04-21T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1784571",
+    "id": 1576766,
+    "sex": "Male",
+    "damId": 1556257,
+    "sireId": 1501789,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Thunder-Ridge JM Joe",
+    "dateOfBirth": "2014-04-01T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1768406",
+    "id": 1560621,
+    "sex": "Male",
+    "damId": 1247896,
+    "sireId": 1292960,
+    "ownerAccount": {
+      "displayName": "Kimberly K Moore"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-08-14T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 244284
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "CH Leisure Time TT Endless Echoes",
+    "dateOfBirth": "2015-04-05T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1748236",
+    "id": 1540418,
+    "sex": "Male",
+    "damId": 1477027,
+    "sireId": 1423445,
+    "ownerAccount": {
+      "displayName": "6E Farmstead"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 260599
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 78,
+        "isPermanent": false,
+        "id": 244926
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Dkgh Rockin' Eve",
+    "dateOfBirth": "2015-03-15T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1728357",
+    "id": 1520487,
+    "sex": "Female",
+    "damId": 1357505,
+    "sireId": 1470736,
+    "ownerAccount": {
+      "displayName": "Greenehaven Farms"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2018-08-05T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": false,
+        "id": 262939
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2017-06-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 250511
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2016-08-03T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 243722
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "My-Enchanted-Acres B'Witched",
+    "dateOfBirth": "2015-02-11T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1725678",
+    "id": 1517803,
+    "sex": "Female",
+    "damId": 1229057,
+    "sireId": 1249496,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 250395
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2017,
+        "awardCount": 8
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Hetlandcreek TT 8 Second Ride",
+    "dateOfBirth": "2015-03-14T00:00:00",
+    "dateOfDeath": "2017-10-15T00:00:00",
+    "normalizeId": "PD1721551",
+    "id": 1513663,
+    "sex": "Male",
+    "damId": 1410083,
+    "sireId": 1423445,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 79,
+        "isPermanent": false,
+        "id": 244872
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2015,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Woest-Hoeve Defying Gravity",
+    "dateOfBirth": "2014-03-06T00:00:00",
+    "dateOfDeath": "2021-01-10T13:11:20",
+    "normalizeId": "PN1699208",
+    "id": 1491313,
+    "sex": "Male",
+    "damId": 1271097,
+    "sireId": 1427238,
+    "ownerAccount": {
+      "displayName": "Tara Thompson Family"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-08-01T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 276913
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 260812
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-07-28T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 242761
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 228917
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2014,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Castle Rock Penny Dreadful",
+    "dateOfBirth": "2014-03-07T00:00:00",
+    "dateOfDeath": "2023-01-27T23:13:15",
+    "normalizeId": "PD1694491",
+    "id": 1486576,
+    "sex": "Male",
+    "damId": 1297446,
+    "sireId": 1303530,
+    "ownerAccount": {
+      "displayName": "Nicole & Jesse Kelly Mckeown"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 80,
+        "isPermanent": false,
+        "id": 261969
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 255727
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-06-09T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 237893
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2014,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Dkgh Royal Marc Let Her Reign",
+    "dateOfBirth": "2014-03-02T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1678683",
+    "id": 1470737,
+    "sex": "Female",
+    "damId": 1306485,
+    "sireId": 803149,
+    "ownerAccount": {
+      "displayName": "Greenehaven Farms"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2018-08-05T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 262937
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2017-06-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 250508
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2016-08-03T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 243719
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2015-06-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 227832
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2015,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Alethia ET I'M A Love Machine",
+    "dateOfBirth": "2014-02-01T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1674729",
+    "id": 1466770,
+    "sex": "Male",
+    "damId": 1379888,
+    "sireId": 1395894,
+    "ownerAccount": {
+      "displayName": "Denise Hetland"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Stayawhile TV Camera Ready",
+    "dateOfBirth": "2014-02-11T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1667999",
+    "id": 1460028,
+    "sex": "Female",
+    "damId": 1374801,
+    "sireId": 1437700,
+    "ownerAccount": {
+      "displayName": "Jodi Mcdowell"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2018-07-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 260893
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2016-06-09T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 238170
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2015-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 226603
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2015,
+        "awardCount": 2
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2015,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Rosasharn NP Honey Moon Cruz",
+    "dateOfBirth": "2013-03-05T00:00:00",
+    "dateOfDeath": "2020-03-09T00:00:00",
+    "normalizeId": "PD1658704",
+    "id": 1450716,
+    "sex": "Male",
+    "damId": 1312026,
+    "sireId": 1366576,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 226600
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 223843
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Poppy Patch HB Honey Bear",
+    "dateOfBirth": "2013-04-22T00:00:00",
+    "dateOfDeath": "2022-02-12T11:11:54",
+    "normalizeId": "PD1646227",
+    "id": 1438166,
+    "sex": "Male",
+    "damId": 1315503,
+    "sireId": 1270743,
+    "ownerAccount": {
+      "displayName": "Dixie Davis"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 244915
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 226640
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 220185
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Pholia Farm Moonlaced ByDesign",
+    "dateOfBirth": "2013-03-10T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1634628",
+    "id": 1426554,
+    "sex": "Female",
+    "damId": 1330247,
+    "sireId": 1367650,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": true,
+        "id": 260593
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "+",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 250470
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 244914
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 226638
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "+",
+        "finalScore": 81,
+        "isPermanent": false,
+        "id": 220182
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2014,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2014,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Algedi Farm CK Seirene Song",
+    "dateOfBirth": "2012-05-18T00:00:00",
+    "dateOfDeath": "2018-03-11T00:00:00",
+    "normalizeId": "PD1618182",
+    "id": 1410083,
+    "sex": "Female",
+    "damId": 1197712,
+    "sireId": 1314577,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 226590
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 220213
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2014,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2014,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "GCH Algedi Farm DJ Melodica",
+    "dateOfBirth": "2011-04-30T00:00:00",
+    "dateOfDeath": "2019-07-02T00:00:00",
+    "normalizeId": "PD1553971",
+    "id": 1345760,
+    "sex": "Female",
+    "damId": 1231758,
+    "sireId": 1148220,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 261903
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 244870
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 226589
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "A",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 220212
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2015,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2015,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Algedi Farm MH Buck Rogers",
+    "dateOfBirth": "2010-03-17T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1523767",
+    "id": 1315501,
+    "sex": "Male",
+    "damId": 1115476,
+    "sireId": 1270741,
+    "ownerAccount": {
+      "displayName": "Heidi Gonzales"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-24T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": true,
+        "id": 229037
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-06-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 217495
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2014,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Kastdemur'S Monte Carlo",
+    "dateOfBirth": "2009-03-11T00:00:00",
+    "dateOfDeath": "2015-08-17T00:00:00",
+    "normalizeId": "PN1496077",
+    "id": 1287767,
+    "sex": "Male",
+    "damId": 1091572,
+    "sireId": 1149480,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "++B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "2 AR Bucks",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2011,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2009,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Blue Bear Easter Bunny",
+    "dateOfBirth": "2007-04-09T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1458310",
+    "id": 1249917,
+    "sex": "Female",
+    "damId": 1249915,
+    "sireId": 1249913,
+    "ownerAccount": {
+      "displayName": "Alexia Allen"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2011-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "+",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 187752
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2009-06-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "A",
+        "finalScore": 82,
+        "isPermanent": false,
+        "id": 171897
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH J&R Spirit'S Dakota Playboy",
+    "dateOfBirth": "2008-02-28T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PN1452155",
+    "id": 1243745,
+    "sex": "Male",
+    "damId": 1151824,
+    "sireId": 762250,
+    "ownerAccount": {
+      "displayName": "Belinda & Alex Berry Appleton"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-06-06T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 215755
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2009-09-26T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 177133
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "++B (ST)",
+        "awardDescription": "2 ST Bucks",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "2 AR Bucks",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2013,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2013,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2013,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2011,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2011,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2008,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "CH Poppy Patch Not Quite An Angel",
+    "dateOfBirth": "2008-05-01T00:00:00",
+    "dateOfDeath": "2015-07-15T00:00:00",
+    "normalizeId": "PD1451570",
+    "id": 1243158,
+    "sex": "Female",
+    "damId": 1151103,
+    "sireId": 1113177,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Wingwood Farm Tempo Aurora",
+    "dateOfBirth": "2007-04-20T00:00:00",
+    "dateOfDeath": "2017-05-12T00:00:00",
+    "normalizeId": "PN1411155",
+    "id": 1202642,
+    "sex": "Female",
+    "damId": 1056341,
+    "sireId": 1164059,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-07-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 223557
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2013-09-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 213837
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2012-09-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 204031
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2010-06-12T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": "A",
+        "finalScore": 79,
+        "isPermanent": false,
+        "id": 180536
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2010,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2008,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2008,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2008,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2008,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Thunder-Ridge PS Willow",
+    "dateOfBirth": "2007-03-04T00:00:00",
+    "dateOfDeath": "2019-10-02T00:00:00",
+    "normalizeId": "PN1405319",
+    "id": 1196766,
+    "sex": "Female",
+    "damId": 1084432,
+    "sireId": 1023462,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-24T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 220427
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2013-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": true,
+        "id": 207564
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2011-06-12T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 189330
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2009-06-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 172229
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2008-07-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "+",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 164690
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2010,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2009,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2008,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2008,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2008,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SG Camanna BJ Blue Dakota",
+    "dateOfBirth": "2006-09-13T00:00:00",
+    "dateOfDeath": "2011-09-04T00:00:00",
+    "normalizeId": "PD1396333",
+    "id": 1187753,
+    "sex": "Male",
+    "damId": 1128374,
+    "sireId": 1144277,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2011-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": true,
+        "id": 187751
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  }
+]
