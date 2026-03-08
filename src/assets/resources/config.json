@@ -5,5 +5,17 @@
   "saleTerms": "## Doeling/Buckling Kid price determined as follows*:\n\n* Base price                    $350\n* Bred to *B Buck           +$50\n* Grand Champion Win  +$50  (each additional leg $75)\n* Superior Genetics +$50\n* E in mammary on LA   +$50\n* LA Score 88 & above   +$50\n* AR Milk Production Star adds $50 (ST Milk Production Star adds $25)  \n* Daughters that show well add value for the dam.\n* Proven sires add value.\n* $25  Discount given to DHIR, LA, or ADGA Show homes\nBucks will not be available out of first fresheners. Buck kids will only be sold as bucks if we would use them in our breeding program.\n\n## Weathers $175.00* Add $25 for Blue eyes\n\nDiscounts maybe given for multiples\n\n*Note – on occasion, if we feel the above pricing schedule does not adequately account for the value of specific pairings, adjustments will be made. When you buy breed stock from us we request first right of refusal if breed stock is ever sold.",
   "socials": {
     "facebook": "thelongacresfarm"
+  },
+  "colors": {
+    "main": "hsl(150, 100%, 10%)",
+    "light": {
+      "main": "hsl(150, 100%, 100%)",
+      "secondary": "hsl(150, 100%, 40%)",
+      "tertiary": "hsl(150, 100%, 45%)",
+      "quaternary": "hsl(150, 100%, 50%)"
+    },
+    "secondary": "hsl(150, 100%, 15%)",
+    "tertiary": "hsl(150, 100%, 20%)",
+    "quaternary": "hsl(150, 100%, 25%)"
   }
 }
