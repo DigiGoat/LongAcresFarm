@@ -1,1 +1,14 @@
-{}
+{
+  "analytics": {
+    "gtag": "G-BE2BLS5GSG",
+    "clarity": "vpjmheibve"
+  },
+  "firebase": {
+    "projectId": "longacresfarm-463d2",
+    "apiKey": "AIzaSyAmkdfEHRvrE_HUKnQ55vkA4zkYu1oogNw",
+    "authDomain": "longacresfarm-463d2.firebaseapp.com",
+    "storageBucket": "longacresfarm-463d2.firebasestorage.app",
+    "messagingSenderId": "992663505986",
+    "appId": "992663505986"
+  }
+}
