@@ -9,7 +9,7 @@
   "colors": {
     "main": "hsl(150, 100%, 10%)",
     "light": {
-      "main": "hsl(150, 100%, 90%)",
+      "main": "hsl(150, 100%, 100%)",
       "secondary": "hsl(150, 100%, 30%)",
       "tertiary": "hsl(150, 100%, 35%)",
       "quaternary": "hsl(150, 100%, 40%)"
