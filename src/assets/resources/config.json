@@ -17,5 +17,6 @@
     "secondary": "hsl(150, 100%, 15%)",
     "tertiary": "hsl(150, 100%, 20%)",
     "quaternary": "hsl(150, 100%, 25%)"
-  }
+  },
+  "references": true
 }
