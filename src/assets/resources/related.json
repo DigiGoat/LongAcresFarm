@@ -1154,14 +1154,14 @@
   {
     "name": "SGCH Blue Bear Dfmi Truffles",
     "dateOfBirth": "2012-03-29T00:00:00",
-    "dateOfDeath": null,
+    "dateOfDeath": "2026-03-31T12:29:54",
     "normalizeId": "PD1593639",
     "id": 1385474,
     "sex": "Female",
     "damId": 1311442,
     "sireId": 1345295,
     "ownerAccount": {
-      "displayName": "Long Acres Farm"
+      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": {},
@@ -1548,6 +1548,17 @@
     "animalTattoo": {},
     "linearAppraisals": [
       {
+        "lactationNumber": 5,
+        "appraisalDate": "2025-08-22T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": true,
+        "id": 329520
+      },
+      {
         "lactationNumber": 2,
         "appraisalDate": "2022-07-23T00:00:00",
         "generalAppearance": "V",
@@ -1778,7 +1789,19 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2025-07-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 329285
+      }
+    ],
     "awards": []
   },
   {
