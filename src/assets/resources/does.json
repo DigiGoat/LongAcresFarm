@@ -1495,40 +1495,6 @@
     "nickname": "G.G."
   },
   {
-    "name": "Long Acres Farm FS Crecent ",
-    "dateOfBirth": "2024-04-08T08:18:06",
-    "dateOfDeath": null,
-    "normalizeId": "PD2409482",
-    "id": 2409482,
-    "sex": "Female",
-    "damId": 1749308,
-    "sireId": 1644023,
-    "ownerAccount": {
-      "displayName": "Long Acres Farm"
-    },
-    "colorAndMarking": "Black With White Patch On Side",
-    "animalTattoo": [
-      {
-        "tattoo": "1LAF",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "S23",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002409482",
-    "usdaKey": 2136390,
-    "lactationRecords": [],
-    "awards": [],
-    "nickname": "Crescent"
-  },
-  {
     "name": "MT View GS Saba",
     "dateOfBirth": "2025-03-01T16:09:15",
     "dateOfDeath": null,
