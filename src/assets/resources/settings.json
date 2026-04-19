@@ -1,8 +1,4 @@
 {
-  "analytics": {
-    "gtag": "G-BE2BLS5GSG",
-    "clarity": "vpjmheibve"
-  },
   "firebase": {
     "projectId": "longacresfarm-463d2",
     "apiKey": "AIzaSyAmkdfEHRvrE_HUKnQ55vkA4zkYu1oogNw",
@@ -10,5 +6,10 @@
     "storageBucket": "longacresfarm-463d2.firebasestorage.app",
     "messagingSenderId": "992663505986",
     "appId": "992663505986"
-  }
+  },
+  "analytics": {
+    "gtag": "G-BE2BLS5GSG",
+    "clarity": "vpjmheibve"
+  },
+  "url": "https://longacresfarm.com/"
 }
