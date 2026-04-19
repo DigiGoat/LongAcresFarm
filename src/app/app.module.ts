@@ -32,6 +32,7 @@ import { AgePipe } from './pipes/age/age.pipe';
 import { FresheningPipe } from './pipes/freshening/freshening.pipe';
 import { LongDatePipe } from './pipes/longDate/longDate.pipe';
 import { CustomPageComponent } from './pages/custom-page/custom-page.component';
+import { ContactUsComponent } from './pages/contact-us/contact-us.component';
 
 
 @NgModule({
@@ -63,7 +64,8 @@ import { CustomPageComponent } from './pages/custom-page/custom-page.component';
     MarkdownComponent,
     MarkdownDirective,
     FresheningPipe,
-    CustomPageComponent
+    CustomPageComponent,
+    ContactUsComponent
   ],
   imports: [
     BrowserModule,
