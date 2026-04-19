@@ -1,3 +1,6 @@
+## 7.2.0-beta.2
+* Fixed a bug causing the contact form to not load
+
 ## 7.2.0-beta.1
 * Added the ability to embed a contact form on your website
   * This is currently implemented using JotForm and dynamically generates a form for your farm that submits to your email address
