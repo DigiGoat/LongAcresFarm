@@ -7,6 +7,7 @@ import { forSaleGuard } from './guards/for-sale/for-sale.guard';
 import { kiddingScheduleGuard } from './guards/kidding-schedule/kidding-schedule.guard';
 import { referencesGuard } from './guards/references/references.guard';
 import { BucksComponent } from './pages/bucks/bucks.component';
+import { ContactUsComponent } from './pages/contact-us/contact-us.component';
 import { CustomPageComponent } from './pages/custom-page/custom-page.component';
 import { DoesComponent } from './pages/does/does.component';
 import { ForSaleComponent } from './pages/for-sale/for-sale.component';
@@ -15,6 +16,7 @@ import { KiddingScheduleComponent } from './pages/kidding-schedule/kidding-sched
 import { NotFoundComponent } from './pages/not-found/not-found.component';
 import { ReferencesComponent } from './pages/references/references.component';
 import { TitleStrategy } from './strategies/title.strategy';
+import { contactUsGuard } from './guards/contact-us/contact-us.guard';
 
 const routes: Route[] = [
   { path: '', component: HomeComponent, title: 'Home' },
@@ -49,6 +51,9 @@ const routes: Route[] = [
   },
   {
     path: ':customPage', canMatch: [customPageGuard], component: CustomPageComponent, title: ':customPage'
+  },
+  {
+    path: 'contact-us', canMatch: [contactUsGuard], component: ContactUsComponent, title: 'Contact Us'
   },
   {
     path: '**', component: NotFoundComponent, title: 'Not Found'

@@ -33,7 +33,7 @@ export class ConfigService {
     return '';
   }
   get email(): string {
-    if (this.config['email']) {
+    if (this.config['email'] && !this.config['hideEmail']) {
       return this.config['email'] as string;
     }
     return '';
@@ -112,9 +112,12 @@ export class ConfigService {
     }
     return false;
   }
+  get contactForm(): string | false {
+    return (this.config['contactForm'] && this.config['email'] && (this.title || this.shortTitle)) ? this.config['email'] as string : false;
+  }
 }
 
-type Analytics = { gtag?: string; clarity?: string };
+type Analytics = { gtag?: string; clarity?: string; };
 type ColorScheme = {
   background?: 'wood';
   main?: string;
@@ -128,8 +131,8 @@ type ColorScheme = {
     quaternary?: string;
   };
 };
-type Socials = { facebook?: string; instagram?: string; threads?: string };
-type Firebase = { apiKey?: string; authDomain?: string; projectId?: string; storageBucket?: string; messagingSenderId?: string; appId?: string };
+type Socials = { facebook?: string; instagram?: string; threads?: string; };
+type Firebase = { apiKey?: string; authDomain?: string; projectId?: string; storageBucket?: string; messagingSenderId?: string; appId?: string; };
 
 export type Settings = Partial<{
   analytics: Partial<{
