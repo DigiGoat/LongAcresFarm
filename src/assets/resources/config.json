@@ -19,5 +19,7 @@
     "quaternary": "hsl(150, 100%, 25%)"
   },
   "references": true,
-  "email": "info@long-acres-farm.com"
+  "email": "info@longacresfarm.com",
+  "hideEmail": true,
+  "contactForm": true
 }
