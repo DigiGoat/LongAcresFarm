@@ -1,5 +1,104 @@
 [
   {
+    "name": "Long Acres Farm SS Tinker Bell",
+    "dateOfBirth": "2025-03-03T19:18:18",
+    "dateOfDeath": null,
+    "normalizeId": "PD2451914",
+    "id": 2451914,
+    "sex": "Female",
+    "damId": 2255855,
+    "sireId": 1808722,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "MT View GS Saba",
+    "dateOfBirth": "2025-03-01T16:09:15",
+    "dateOfDeath": null,
+    "normalizeId": "PD2429837",
+    "id": 2429837,
+    "sex": "Female",
+    "damId": 1929981,
+    "sireId": 2322432,
+    "ownerAccount": {
+      "displayName": "Megan & Rick Kaut"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Little RedHouse Aerith",
+    "dateOfBirth": "2024-04-15T21:17:53",
+    "dateOfDeath": null,
+    "normalizeId": "PD2413556",
+    "id": 2413556,
+    "sex": "Male",
+    "damId": 1905781,
+    "sireId": 1945322,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Rockin-CB Lsp Spirit",
+    "dateOfBirth": "2024-04-27T20:13:37",
+    "dateOfDeath": null,
+    "normalizeId": "PL2389812",
+    "id": 2389812,
+    "sex": "Female",
+    "damId": 2229601,
+    "sireId": 2246321,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Rockin-CB An Rhetoric",
+    "dateOfBirth": "2023-04-15T12:17:29",
+    "dateOfDeath": null,
+    "normalizeId": "PL2323872",
+    "id": 2323872,
+    "sex": "Male",
+    "damId": 2222280,
+    "sireId": 2170610,
+    "ownerAccount": {
+      "displayName": "Kristie & Michael Millson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
     "name": "Agape'S Prize Cox Gold Star ",
     "dateOfBirth": "2023-05-14T22:06:21",
     "dateOfDeath": null,
@@ -14,7 +113,14 @@
     "colorAndMarking": "",
     "animalTattoo": {},
     "linearAppraisals": [],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2026,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Long Acres Farm SD Mercury",
@@ -48,19 +154,26 @@
   {
     "name": "Lucky*Star'S LL Points",
     "dateOfBirth": "2022-03-10T09:00:11",
-    "dateOfDeath": null,
+    "dateOfDeath": "2026-09-18T13:23:38",
     "normalizeId": "PL2246321",
     "id": 2246321,
     "sex": "Male",
     "damId": 2158825,
     "sireId": 1795148,
     "ownerAccount": {
-      "displayName": "Cindy L & Robert L Silva"
+      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": {},
     "linearAppraisals": [],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Long Acres Farm M D-Delight",
@@ -129,7 +242,32 @@
         "id": 308000
       }
     ],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2024,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Long Acres Farm JS Elizabeth",
@@ -175,7 +313,14 @@
     "colorAndMarking": "",
     "animalTattoo": {},
     "linearAppraisals": [],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Long Acres Farm AT Sammy Davis ",
@@ -192,7 +337,14 @@
     "colorAndMarking": "",
     "animalTattoo": {},
     "linearAppraisals": [],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2026,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "IlenesRascals Teachmesomethin'",
@@ -209,7 +361,14 @@
     "colorAndMarking": "",
     "animalTattoo": {},
     "linearAppraisals": [],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Castle Rock Tempesta",
@@ -249,7 +408,38 @@
         "id": 296393
       }
     ],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2023,
+        "awardCount": 2
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "My-Enchanted-Acres LM Ester",
@@ -318,10 +508,53 @@
         "id": 304694
       }
     ],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 6
+      }
+    ]
   },
   {
-    "name": "CH Dkgh Candyman Rockin' Everest",
+    "name": "GCH Dkgh Candyman Rockin' Everest",
     "dateOfBirth": "2020-04-27T00:00:00",
     "dateOfDeath": null,
     "normalizeId": "PN2090026",
@@ -349,9 +582,27 @@
     ],
     "awards": [
       {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2026,
+        "awardCount": 1
+      },
+      {
         "awardCode": "CH",
         "awardDescription": "Champion",
         "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2024,
         "awardCount": 1
       }
     ]
@@ -416,7 +667,7 @@
     ]
   },
   {
-    "name": "Long Acres Farm PD Jupiter ",
+    "name": "GCH Long Acres Farm PD Jupiter ",
     "dateOfBirth": "2019-03-08T00:00:00",
     "dateOfDeath": null,
     "normalizeId": "PD2038084",
@@ -455,6 +706,12 @@
     ],
     "awards": [
       {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
         "awardYear": 2020,
@@ -481,16 +738,16 @@
     ]
   },
   {
-    "name": "CH Dkgh DG Reign Beau",
+    "name": "GCH Dkgh DG Reign Beau",
     "dateOfBirth": "2019-04-06T00:00:00",
-    "dateOfDeath": null,
+    "dateOfDeath": "2026-07-01T19:15:07",
     "normalizeId": "PN2021687",
     "id": 1814042,
     "sex": "Male",
     "damId": 1470737,
     "sireId": 1491313,
     "ownerAccount": {
-      "displayName": "Greenehaven Farms"
+      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": {},
@@ -512,6 +769,18 @@
         "awardCode": "CH",
         "awardDescription": "Champion",
         "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2024,
         "awardCount": 1
       }
     ]
@@ -770,6 +1039,12 @@
     ],
     "awards": [
       {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
         "awardCode": "+B (ST)",
         "awardDescription": "1 AR Buck And 2 AR/ST Does",
         "awardYear": 2021,
@@ -966,16 +1241,16 @@
         "awardCount": 1
       },
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 6
+      },
+      {
         "awardCode": "*M (ST)",
         "awardDescription": "*Milker Owner Sample (Butterfat)",
         "awardYear": 2018,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2018,
-        "awardCount": 6
       },
       {
         "awardCode": "*M (ST)",
@@ -1024,6 +1299,12 @@
       }
     ],
     "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
       {
         "awardCode": "+B (ST)",
         "awardDescription": "1 ST Buck And 2 AR/ST Does",
@@ -1399,6 +1680,118 @@
     ]
   },
   {
+    "name": "GCH Rockin-CB LL Prose",
+    "dateOfBirth": "2022-02-27T21:00:56",
+    "dateOfDeath": null,
+    "normalizeId": "PL2222280",
+    "id": 2222280,
+    "sex": "Female",
+    "damId": 1565961,
+    "sireId": 1795148,
+    "ownerAccount": {
+      "displayName": "Cindy L & Robert L Silva"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2025-08-22T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 93,
+        "isPermanent": false,
+        "id": 330671
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2024-09-21T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": false,
+        "id": 327837
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2023-09-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 307980
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2023,
+        "awardCount": 9
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milk Competition",
+        "awardYear": 2025,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Argonne'S Nevado",
+    "dateOfBirth": "2021-03-01T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PL2170610",
+    "id": 2170610,
+    "sex": "Male",
+    "damId": 1802116,
+    "sireId": 1643847,
+    "ownerAccount": {
+      "displayName": "Avery Morrow"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
     "name": "Lucky*Star'S RJ Nice-Nice",
     "dateOfBirth": "2021-03-01T08:00:00",
     "dateOfDeath": null,
@@ -1436,7 +1829,32 @@
         "id": 294144
       }
     ],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2022,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "My-Enchanted-Acres Justn'Smoke",
@@ -1448,7 +1866,7 @@
     "damId": 1344090,
     "sireId": 1419018,
     "ownerAccount": {
-      "displayName": "Kim Puzio"
+      "displayName": "Midnight Milkers"
     },
     "colorAndMarking": "",
     "animalTattoo": {},
@@ -1477,19 +1895,26 @@
   {
     "name": "Agape'S Prize Goldie Cox",
     "dateOfBirth": "2020-05-02T00:00:00",
-    "dateOfDeath": null,
+    "dateOfDeath": "2025-01-14T16:08:18",
     "normalizeId": "PD2102004",
     "id": 1894482,
     "sex": "Male",
     "damId": 1543546,
     "sireId": 1592111,
     "ownerAccount": {
-      "displayName": "Hilltop Farms"
+      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": {},
     "linearAppraisals": [],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Sans Gene Doctor Fauci",
@@ -1506,7 +1931,14 @@
     "colorAndMarking": "",
     "animalTattoo": {},
     "linearAppraisals": [],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Kastdemur'S Modern Man",
@@ -1524,6 +1956,12 @@
     "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
       {
         "awardCode": "*B",
         "awardDescription": "*Buck",
@@ -1678,7 +2116,7 @@
     "damId": 1724841,
     "sireId": 1712578,
     "ownerAccount": {
-      "displayName": "Jayden Heathcott"
+      "displayName": "Amber Bennett"
     },
     "colorAndMarking": "",
     "animalTattoo": {},
@@ -1696,6 +2134,24 @@
       }
     ],
     "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
       {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
@@ -1738,6 +2194,12 @@
     "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
       {
         "awardCode": "*B",
         "awardDescription": "*Buck",
@@ -1802,7 +2264,20 @@
         "id": 329285
       }
     ],
-    "awards": []
+    "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "GCH Little RedHouse Hey!Look! Navi",
@@ -1858,6 +2333,30 @@
         "awardCode": "GCH",
         "awardDescription": "Grand Champion",
         "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2021,
         "awardCount": 1
       },
       {
@@ -1974,6 +2473,12 @@
     "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
       {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
@@ -2506,6 +3011,30 @@
     ],
     "awards": [
       {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2022,
+        "awardCount": 2
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
         "awardCode": "SGCH",
         "awardDescription": "Superior Genetics Grand Champion",
         "awardYear": 2017,
@@ -2671,6 +3200,12 @@
     ],
     "awards": [
       {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
         "awardCode": "+B (AR)",
         "awardDescription": "3 AR Does - Different Dams",
         "awardYear": 2021,
@@ -2734,6 +3269,12 @@
       }
     ],
     "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
       {
         "awardCode": "SG",
         "awardDescription": "Superior Genetics",
@@ -2810,6 +3351,30 @@
     ],
     "awards": [
       {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
         "awardCode": "SGCH",
         "awardDescription": "Superior Genetics Grand Champion",
         "awardYear": 2019,
@@ -2845,6 +3410,18 @@
     "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "3 *M Does",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
       {
         "awardCode": "*B",
         "awardDescription": "*Buck",
@@ -3137,6 +3714,18 @@
     ],
     "awards": [
       {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
         "awardCode": "SG",
         "awardDescription": "Superior Genetics",
         "awardYear": 2014,
@@ -3208,16 +3797,16 @@
     ],
     "awards": [
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2017,
+        "awardCount": 6
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2015,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2014,
-        "awardCount": 6
       },
       {
         "awardCode": "*M (AR)",
@@ -3295,16 +3884,16 @@
     ],
     "awards": [
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 5
+      },
+      {
         "awardCode": "GCH",
         "awardDescription": "Grand Champion",
         "awardYear": 2015,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2015,
-        "awardCount": 5
       },
       {
         "awardCode": "*M (AR)",
@@ -3807,6 +4396,12 @@
         "awardCount": 1
       },
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2010,
+        "awardCount": 4
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2010,
@@ -3817,12 +4412,6 @@
         "awardDescription": "*Milker (AR) Protein",
         "awardYear": 2009,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2008,
-        "awardCount": 4
       },
       {
         "awardCode": "*M (AR)",
