@@ -1,6 +1,6 @@
 [
   {
-    "name": "Long Acres Farm PD Jupiter ",
+    "name": "GCH Long Acres Farm PD Jupiter ",
     "dateOfBirth": "2019-03-08T00:00:00",
     "dateOfDeath": null,
     "normalizeId": "PD2038084",
@@ -373,6 +373,12 @@
       }
     ],
     "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
       {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
@@ -2447,5 +2453,203 @@
     "lactationRecords": [],
     "awards": [],
     "nickname": "Pheonix"
+  },
+  {
+    "name": "Long Acres Farm RH Lavender",
+    "dateOfBirth": "2026-03-19T18:18:31",
+    "dateOfDeath": null,
+    "normalizeId": "PL2493851",
+    "id": 2493851,
+    "sex": "Female",
+    "damId": 2389812,
+    "sireId": 2323872,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "Sundgau Back And Brown",
+    "animalTattoo": [
+      {
+        "tattoo": "1LAF",
+        "tattooLocation": {
+          "name": "RT"
+        }
+      },
+      {
+        "tattoo": "V30",
+        "tattooLocation": {
+          "name": "LT"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "usdaId": "LNUSA000002493851",
+    "usdaKey": 2216934,
+    "lactationRecords": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm SS Tater Tot",
+    "dateOfBirth": "2026-03-08T18:29:07",
+    "dateOfDeath": null,
+    "normalizeId": "PD2498475",
+    "id": 2498475,
+    "sex": "Female",
+    "damId": 2232213,
+    "sireId": 1808722,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "Chocolate Buckskin",
+    "animalTattoo": [
+      {
+        "tattoo": "1LAF",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "V3",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "usdaId": "NDUSA000002498475",
+    "usdaKey": 2221633,
+    "lactationRecords": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm SS Starlight",
+    "dateOfBirth": "2026-03-16T20:15:29",
+    "dateOfDeath": null,
+    "normalizeId": "PD2511215",
+    "id": 2511215,
+    "sex": "Female",
+    "damId": 1830462,
+    "sireId": 1808722,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "Buckskin Chamoisee With Overlay",
+    "animalTattoo": [
+      {
+        "tattoo": "1LAF",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "V18",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "usdaId": "NDUSA000002511215",
+    "usdaKey": 2234718,
+    "lactationRecords": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm SS Muffin",
+    "dateOfBirth": "2026-03-08T20:13:10",
+    "dateOfDeath": null,
+    "normalizeId": "PD2511216",
+    "id": 2511216,
+    "sex": "Female",
+    "damId": 2232213,
+    "sireId": 1808722,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "Buckskin w/White",
+    "animalTattoo": [
+      {
+        "tattoo": "1LAF",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "V2",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "usdaId": "NDUSA000002511216",
+    "usdaKey": 2234719,
+    "lactationRecords": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm SS Brownie",
+    "dateOfBirth": "2026-05-01T16:34:23",
+    "dateOfDeath": null,
+    "normalizeId": "PD2517670",
+    "id": 2517670,
+    "sex": "Female",
+    "damId": 2429837,
+    "sireId": 1808722,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "Chocolate Buckskin",
+    "animalTattoo": [
+      {
+        "tattoo": "1LAF",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "V33",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "usdaId": "NDUSA000002517670",
+    "usdaKey": 2241628,
+    "lactationRecords": [],
+    "awards": []
+  },
+  {
+    "name": "Long Acres Farm A Pixy Dust",
+    "dateOfBirth": "2026-05-04T16:30:39",
+    "dateOfDeath": null,
+    "normalizeId": "PD2517671",
+    "id": 2517671,
+    "sex": "Female",
+    "damId": 2451914,
+    "sireId": 2413556,
+    "ownerAccount": {
+      "displayName": "Long Acres Farm"
+    },
+    "colorAndMarking": "Black And White",
+    "animalTattoo": [
+      {
+        "tattoo": "1LAF",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "V37",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "usdaId": "NDUSA000002517671",
+    "usdaKey": 2241629,
+    "lactationRecords": [],
+    "awards": []
   }
 ]
