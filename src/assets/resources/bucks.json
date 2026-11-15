@@ -104,7 +104,14 @@
       }
     ],
     "linearAppraisals": [],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ],
     "nickname": "Rocky"
   }
 ]
